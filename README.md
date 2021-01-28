@@ -5,5 +5,5 @@ Projektbeschreibung:
 Durch drehen an einem Potentiometer muss ein Schloss geknackt werden (ähnlich Tresor), Hinweise werden durch eine LED gegeben.
 
 Information:
-Dieses Repository diehnt als Archiv der Projektergebnisse.
+Dieses Repository dient als Archiv der Projektergebnisse.
 Alle hochgeladenen Inhalte dürfen frei verwendet werden.
